@@ -10,7 +10,7 @@ background-color: cadetblue;
 color: #61122F;
 }
 body{
-    background-color: #61122F;
+    background-color: #556B2F;
     color: white;
 }
 .glyphicon{
@@ -35,7 +35,7 @@ h2{
     text-align: center;
 }
 #myNavbar ul li a {
-    color: #61122F;
+    color: #556B2F;
 }
 .navbar-brand{
 font-size: 30px;    
